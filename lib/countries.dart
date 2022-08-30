@@ -503,7 +503,7 @@ const List<Country> countries = [
     name: "Dominican Republic",
     flag: "🇩🇴",
     code: "DO",
-    dialCode: "1",
+    dialCode: "18",
     minLength: 15,
     maxLength: 15,
   ),
